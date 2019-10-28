@@ -1,0 +1,15 @@
+series_discovered
+    apply
+    report
+    dashboard
+series_applied
+    build
+    report
+    dashboard
+series_built
+    test
+    report
+    dashboard
+series_tested
+    report
+    dashboard

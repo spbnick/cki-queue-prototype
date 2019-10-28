@@ -1,0 +1,12 @@
+Extreme:
+separate queue for each most-specific artifact type
+
+Moderate:
+separate queue for each moderately-specific artifact type
+
+Extreme:
+one queue for all artifact types
+
+
+There are two dimensions: progression through the stages, and stage outcomes.
+We don't have to have separate topics for the latter.
